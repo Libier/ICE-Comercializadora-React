@@ -1,0 +1,8 @@
+.image-container {
+  display: flex;
+  position: relative;
+}
+.image-image {
+  width: 398px;
+  object-fit: cover;
+}
